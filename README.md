@@ -9,10 +9,13 @@
 3. 복잡한 패턴이없는 이미지를 주로 사용할때 효율적입니다.
 5. 무손실 압축방식으로 연속된 색상값을 압축합니다.
 6. 런타임에서 디코딩을 하지않아 빠릅니다. (PNG, JPEG, BMP의 디코딩시간 많이소모)
+## 설치 (install)
+```shell
+$ install TFT_eSPI or LovyanGFX
+$ git clone https://github.com/Fluoritee/simg-Sprite.git
+$ 
+```
 ## How to use (Arduino IDE)
-#### Downlaod this : https://github.com/Fluoritee/simg-Sprite
-#### install zip lib
-#### install TFT_eSPI or LovyanGFX
 ```c
 #include <TFT_eSPI.h>
 #include <SimgSprite.h>
