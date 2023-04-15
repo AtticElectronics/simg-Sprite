@@ -11,7 +11,7 @@
 6. 런타임에서 디코딩을 하지않아 빠릅니다. (PNG, JPEG, BMP의 디코딩시간 많이소모)
 ## 설치 (install)
 ```shell
-$ install TFT_eSPI or LovyanGFX
+$ 
 $ git clone https://github.com/Fluoritee/simg-Sprite.git
 $ 
 ```
